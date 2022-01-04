@@ -1,3 +1,3 @@
 # guess my number Project
 
-Interactive guessing game in JavaScript. Try it out!
+A game in which the player has to correctly guess the answer.
